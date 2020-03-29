@@ -1,0 +1,26 @@
+severity,category
+5,Malware,Investigate
+5,Exploit,Investigate
+5,DDoS,Investigate
+5,Failed Login,Do Not Investigate
+5,XSS,Investigate
+4,Successful Login,Investigate
+4,Vulnerability,Investigate
+4,Malware,Investigate
+4,Failed Login,Do Not Investigate
+4,Phishing,Investigate
+3,Phishing,Investigate
+3,Successful Login,Do Not Investigate
+3,XSS,Investigate
+3,Phishing,Investigate
+3,Successful Login,Do Not Investigate
+2,Failed Login,Do Not Investigate
+2,Phishing,Investigate
+2,Vulnerability,Investigate
+2,Vulnerability,Investigate
+2,Phishing,Investigate
+1,Failed Login,Do Not Investigate
+1,Successful Login,Do Not Investigate
+1,Failed Login,Do Not Investigate
+1,Failed Login,Investigate
+1,Phishing,Investigate
